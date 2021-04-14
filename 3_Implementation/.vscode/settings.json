@@ -1,5 +1,5 @@
 {
     "files.associations": {
-        "perceptron.h": "c"
+        "winsock2.h": "c"
     }
 }
