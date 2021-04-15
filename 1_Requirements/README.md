@@ -13,9 +13,8 @@
 
 
 ### Benefits
-*When you type www.google.com in your web browser, it opens a socket and connects to google.com to fetch the page and show it to you.
-
-*Same with any chat client like gtalk or skype. Any network communication goes through a socket.
+When you type www.google.com in your web browser, it opens a socket and connects to google.com to fetch the page and show it to you.
+Same with any chat client like gtalk or skype. Any network communication goes through a socket.
 
 
 
