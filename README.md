@@ -1,4 +1,4 @@
-# HTTP Serverusing socket Programming in C
+# HTTP Server using socket Programming in C
 
 
 |Build|Code Quality Score|Code Grade|
