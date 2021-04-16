@@ -1,4 +1,5 @@
 # Requirements
+#NOTE: I have used winsock which is api for windows only . I will make this uasable for other os in future.
 ## Introduction
 * Sockets are the fundamental "things" behind any kind of network communications done by your computer.
 * This projects makes a http sever using Winsock , The windows api to socket programming is called winsock.

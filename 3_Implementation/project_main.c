@@ -28,7 +28,7 @@ int main(int argc , char *argv[])
 	printf("Socket created.\n");
 
 
-	sConnection(argc , &*argv);
+	sConnection();
 
 	return 0;
 }
