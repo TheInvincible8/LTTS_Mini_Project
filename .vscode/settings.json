@@ -1,5 +1,6 @@
 {
     "files.associations": {
-        "perceptron.h": "c"
+        "perceptron.h": "c",
+        "project_main.h": "c"
     }
 }

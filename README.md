@@ -1,7 +1,10 @@
-# HTTP Serverusing socket Programming in C
+# HTTP Server using socket Programming in C
 
-[![C/C++ CI](https://www.code-inspector.com/project/21291/score/svg)]()
-[![C/C++ CI](https://www.code-inspector.com/project/21291/status/svg)]()
+
+|Build|Code Quality Score|Code Grade|
+|---|---|---|
+|[![C/C++ CI](https://github.com/TheInvincible8/LTTS_Mini_Project/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/TheInvincible8/LTTS_Mini_Project/actions/workflows/c-cpp.yml)|[![C/C++ CI](https://www.code-inspector.com/project/21291/score/svg)]()|[![C/C++ CI](https://www.code-inspector.com/project/21291/status/svg)]()|
+
 ![Diagram](https://github.com/TheInvincible8/LTTS_Mini_Project/blob/master/6_ImagesAndVideos/Http%20server.png)
 
 

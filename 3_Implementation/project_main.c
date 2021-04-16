@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<winsock2.h>
-#include "src/project_main.h"
+#include "header.h"
 
 
 #pragma comment(lib,"ws2_32.lib") //Winsock Library
