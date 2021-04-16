@@ -1,0 +1,1 @@
+![sequence diagram](https://github.com/TheInvincible8/LTTS_Mini_Project/blob/master/6_ImagesAndVideos/Behavioural.png)
